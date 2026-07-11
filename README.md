@@ -1,4 +1,4 @@
-# Factory Method - Ñlanes de Datos para Proveedores de Internet
+# Factory Method - Planes de Datos para Proveedores de Internet
 
 ## Autor
 
