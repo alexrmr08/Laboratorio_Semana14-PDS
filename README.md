@@ -9,7 +9,7 @@
 
 ---
 
-# Descripción
+# Descripción
 
 Este proyecto implementa el patrón de diseño **Factory Method** para la creación de diferentes tipos de planes de datos ofrecidos por distintos proveedores de internet.
 
@@ -57,7 +57,7 @@ Las tarifas son las siguientes
 
 Posteriormente se agregan dos nuevos proveedores:
 
-## Claro
+## Claro
 
 |  Plan     | tarifa (S/ por MB) |
 |-----------|--------------------|
