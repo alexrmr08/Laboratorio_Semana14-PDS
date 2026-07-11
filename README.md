@@ -3,7 +3,7 @@
 ## Autor
 
 - Nombre: Romero Gordillo, Walter Alexander
-- Curso: Patrones de Diseño
+- Curso: Patrones de Diseño de Software
 - Lenguaje: Java
 - Patron utilizado: Factory Method
 
