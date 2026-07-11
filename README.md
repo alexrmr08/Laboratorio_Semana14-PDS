@@ -111,21 +111,23 @@ Se utilizó el patrón de diseño **Factory Method**.
 # Estructura del proeycto
 
 ```text
-src/
+Laboratorio_Semana14-PDS/
 │
-├── Main.java
-│
-├── PlanesDatosFactory.java
-│
-├── FabricaCreadora.java
-├── MovistarFactory.java
-├── ClaroFactory.java
-├── LineaRapidaFactory.java
-│
-├── PlanDatos.java
-├── PlanDatosPersona.java
-├── PlanDatosNegocio.java
-└── PlanDatosAcademico.java
+├── images/
+│   └── Patron_Factory02-PDS.png
+├── src/
+│   ├── ClaroFactory.java
+│   ├── FabricaCreadora.java
+│   ├── LineaRapidaFactory.java
+│   ├── Main.java
+│   ├── MovistarFactory.java
+│   ├── PlanDatos.java
+│   ├── PlanDatosAcademico.java
+│   ├── PlanDatosNegocio.java
+│   ├── PlanDatosPersonal.java
+│   └── PlanesDatosFactory.java
+├── .gitignore
+└── README.md
 ```
 
 ---
