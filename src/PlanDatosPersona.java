@@ -5,11 +5,11 @@ public class PlanDatosPersona extends PlanDatos {
         nombre = "Plan Persona";
 
         if (proveedor.equalsIgnoreCase("Movistar")) {
-            setTasa(0.30f);
+            setTasa(0.80f);
         } else if (proveedor.equalsIgnoreCase("Claro")) {
-            setTasa(0.28f);
+            setTasa(0.60f);
         } else {
-            setTasa(0.25f);
+            setTasa(0.50f);
         }
     }
 
