@@ -8,7 +8,7 @@ public class LineaRapidaFactory extends FabricaCreadora {
         }
 
         if (tipo.equalsIgnoreCase("Plan Persona")) {
-            return new PlanDatosPersona("Linea Rapida");
+            return new PlanDatosPersonal("Linea Rapida");
         }
 
         if (tipo.equalsIgnoreCase("Plan Negocio")) {

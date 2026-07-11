@@ -1,6 +1,6 @@
-public class PlanDatosPersona extends PlanDatos {
+public class PlanDatosPersonal extends PlanDatos {
 
-    public PlanDatosPersona(String proveedor) {
+    public PlanDatosPersonal(String proveedor) {
         super(proveedor);
         nombre = "Plan Persona";
 

@@ -9,7 +9,7 @@ public class ClaroFactory extends FabricaCreadora {
         }
 
         if (tipo.equalsIgnoreCase("Plan Persona")) {
-            return new PlanDatosPersona("Claro");
+            return new PlanDatosPersonal("Claro");
         }
 
         if (tipo.equalsIgnoreCase("Plan Negocio")) {

@@ -8,7 +8,7 @@ public class MovistarFactory extends FabricaCreadora{
         }
 
         if (tipo.equalsIgnoreCase("Plan Persona")) {
-            return new PlanDatosPersona("Movistar");
+            return new PlanDatosPersonal("Movistar");
         }
 
         if (tipo.equalsIgnoreCase("Plan Negocio")) {
